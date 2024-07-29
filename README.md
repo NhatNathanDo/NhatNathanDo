@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MinhChoan</h1>
 <h3 align="center">Im a Fullstack Web Developer</h3>
 
-- 🌱 I’m currently learning **Laravel, Bootstrap, Vue...**
+- 🌱 I’m currently learning **Laravel, Bootstrap...**
 
 - 📫 How to reach me **dominhnhat.030402@gmail.com**
 
