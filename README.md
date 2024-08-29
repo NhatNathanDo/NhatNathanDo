@@ -6,8 +6,8 @@
 - 📫 How to reach me **dominhnhat.030402@gmail.com**
 <h3 align="left">My Project:</h3>
 <p align="left">
-    <a href="truyentranhlh.one" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+    <a href="https://truyentranhlh.one" target="blank"><img align="center"
+            src="https://truyentranhlh.one/favicon.ico"
             alt="minhchoan" height="30" width="40" /></a>
 </p>
 <h3 align="left">Connect with me:</h3>
