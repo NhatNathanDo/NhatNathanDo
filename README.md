@@ -24,7 +24,7 @@
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"
-            alt="bootstrap" width="40" height="40" /> </a>
+            alt="bootstrap" width="50" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>
