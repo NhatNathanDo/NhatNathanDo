@@ -14,7 +14,7 @@
 <p align="left">
   <a href="https://truyentranhlh.one" target="_blank">
     <img src="https://truyentranhlh.one/favicon.ico" alt="Truyen Tranh LH" height="40" />
-    <span>truyentranhlh.one</span>
+    <span>TruyentranhLH</span>
   </a>
 </p>
 
