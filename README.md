@@ -14,7 +14,7 @@
 <p align="left">
   <a href="https://truyentranhlh.one" target="_blank">
     <img src="https://truyentranhlh.one/favicon.ico" alt="Truyen Tranh LH" height="40" />
-    <span>TruyentranhLH</span>
+    <span>truyentranhlh.one</span>
   </a>
 </p>
 
@@ -51,6 +51,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
 </p>
 
 #### Design Tools
