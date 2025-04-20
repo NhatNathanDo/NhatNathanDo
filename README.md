@@ -14,7 +14,7 @@
 <p align="left">
   <a href="https://truyentranhlh.one" target="_blank">
     <img src="https://truyentranhlh.one/favicon.ico" alt="Truyen Tranh LH" height="40" />
-    <span>truyentranhlh.one</span>
+    <span>TruyentranhLH</span>
   </a>
 </p>
 
@@ -27,6 +27,9 @@
   </a>
   <a href="https://discord.gg/407886526513414159" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/minhchoan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
   </a>
 </p>
 
