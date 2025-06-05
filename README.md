@@ -12,9 +12,8 @@
 
 ### 🧩 My Project
 <p align="left">
-  <a href="https://truyentranhlh.one" target="_blank">
-    <img src="https://truyentranhlh.one/favicon.ico" alt="Truyen Tranh LH" height="40" />
-    <span>TruyentranhLH</span>
+  <a href="#" target="_blank">
+    <span>In progress...</span>
   </a>
 </p>
 
