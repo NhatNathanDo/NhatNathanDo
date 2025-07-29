@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm MinhChoan</h1>
-<h3 align="center">A Passionate Fullstack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Nathan</h1>
+<h3 align="center">A Passionate Back-end Developer</h3>
 
 ---
 
